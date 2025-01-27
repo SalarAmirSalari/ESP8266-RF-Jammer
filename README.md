@@ -22,7 +22,7 @@ Step3 : Open Serial Monitor and set the baud rate to 115200.
 | MISO | D6 |  
 | IRQ | NOT USED! |
 
-![Capture.PNG](:/894cf5b5449d45d99894d236e4b06557)
+![Capture.PNG](https://github.com/SalarAmirSalari/ESP8266-RF-Jammer/tree/main/Assets/Capture.PNG)
 </center>
 
 ## To-Do:
