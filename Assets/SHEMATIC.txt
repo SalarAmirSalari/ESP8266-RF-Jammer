@@ -1,0 +1,9 @@
+NRF24    nodemcu
+VCC      3.3V
+GND      GND
+CNS      D2
+CE       D4
+MOSI     D7
+SCK      D5
+MISO     D6
+IRQ      NOT USED!
