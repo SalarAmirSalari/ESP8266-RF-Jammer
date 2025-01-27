@@ -1,12 +1,18 @@
 # ESP8266 RF Jammer
 ## Features:
 1 - BLE Jamming
+
 2 - Bluetooth Jamming
-3 - idk but it disrupts WiFi Networks too :)
+
+3 - idk but it disrupts some WiFi Networks too :)
+
 4 - Serial Communication
+
 ## Setup:
 Step1 : Use Arduino IDE to flash the program.
+
 Step2 : Do the wiring.
+
 Step3 : Open Serial Monitor and set the baud rate to 115200.
 ### Wiring:
 <center>
