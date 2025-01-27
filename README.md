@@ -35,6 +35,6 @@ Step3 : Open Serial Monitor and set the baud rate to 115200.
 
 ## gallery:
 
-![photo_2025-01-26_22-31-55.jpg](:/7fc419b4195d43ee8194e5094d660928)
-![photo_2025-01-26_22-31-57.jpg](:/f31170e660c742a3a6f1c2cc104b2380)
+![photo_2025-01-26_22-31-55.jpg](https://github.com/SalarAmirSalari/ESP8266-RF-Jammer/blob/main/Assets/photo_2025-01-26_22-31-55.jpg?raw=true)
+![photo_2025-01-26_22-31-57.jpg](https://github.com/SalarAmirSalari/ESP8266-RF-Jammer/blob/main/Assets/photo_2025-01-26_22-31-57.jpg?raw=true)
 
